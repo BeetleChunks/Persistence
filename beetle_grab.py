@@ -305,4 +305,5 @@ To add:
 	5)  Upload private key for ssh as root, enable root ssh login
 	6)  Change root password
 	7)  Add optparser so that its flexible, may not want to delete logs, etc
+	8)  Use bash forking free up terminal usage for victim
 '''
