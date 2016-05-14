@@ -1,1 +1,1 @@
-# persistence
+These are a collection of scripts used to persist on various envrionments. Please note these are more for testing than to be used in actual engagments, as most are damaging. Use at your own risk or not at all.
